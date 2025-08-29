@@ -1,0 +1,78 @@
+# Title: Stumble Guys (Android) DNS Blocklist
+# Version: 29Aug2025v1
+# Last modified: 29 Aug 2025 21:24 CEST
+# Description: Blocks Stumble Guys (Android).
+# Homepage: https://github.com/crazzymath/pi-hole-game-lists
+# License: https://github.com/crazzymath/pi-hole-game-lists/LICENSE
+# Issues: https://github.com/crazzymath/pi-hole-game-lists/issues
+# Syntax: Pi-Hole
+# Number of entries:
+#0.0.0.0 api.helpshift.com
+#0.0.0.0 assets.stumbleguys.com
+#0.0.0.0 ns.photonengine.io
+0.0.0.0 a048f939-8c5d-4bf2-8a11-bedeade637ed.event.collector.scopely.io
+0.0.0.0 a4.applovin.com
+0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 adsgard.aprod.scopely.io
+0.0.0.0 adx.ads.vungle.com
+0.0.0.0 api.stumbleguys.com
+0.0.0.0 app-measurement.com
+0.0.0.0 auction-load.unityads.unity3d.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 cdn-adn-https.mtgglobals.com
+0.0.0.0 cdn-lb.vungle.com
+0.0.0.0 cdn-settings.appsflyersdk.com
+0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
+0.0.0.0 cdn.liftoff-creatives.io
+0.0.0.0 cdn2.inner-active.mobi
+0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 config.sdk.scopely.io
+0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 connect.tapjoy.com
+0.0.0.0 content.tapjoy.com
+0.0.0.0 conversions.appsflyer.com
+0.0.0.0 d.applovin.com
+0.0.0.0 dlsdk.appsflyer.com
+0.0.0.0 events.ads.vungle.com
+0.0.0.0 fenrir-resolver-spacetime.aprod.scopely.io
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 gcdsdk.appsflyer.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 gw.mediation.unity3d.com
+0.0.0.0 hbevents.mz.unity3d.com
+0.0.0.0 httpkafka.unityads.unity3d.com
+0.0.0.0 hybird.mtgglobals.com
+0.0.0.0 inapps.appsflyer.com
+0.0.0.0 init.supersonicads.com
+0.0.0.0 launches.appsflyer.com
+0.0.0.0 localization.stumbleguys.com
+0.0.0.0 locationhistory-pa.googleapis.com
+0.0.0.0 logs.ironsrc.mobi
+0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 networksdk.ssacdn.com
+0.0.0.0 new.ads.vungle.com
+0.0.0.0 notifications-pa.googleapis.com
+0.0.0.0 o-iab.mediation.unity3d.com
+0.0.0.0 o-sdk.mediation.unity3d.com
+0.0.0.0 o92387.ingest.sentry.io
+0.0.0.0 operate-sdk-telemetry.unity3d.com
+0.0.0.0 outcome-cdn.supersonicads.com
+0.0.0.0 placements.tapjoy.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 publisher-event.unityads.unity3d.com
+0.0.0.0 raven-spacetime.aprod.scopely.io
+0.0.0.0 region1.app-measurement.com
+0.0.0.0 rpc.tapjoy.com
+0.0.0.0 rt.applovin.com
+0.0.0.0 vg-aws-us-east-1b-hb-bid-feedback.mtgglobals.com
+0.0.0.0 w.isx.unity3d.com
+0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 ws-scopelyuswest2.pusher.com
+0.0.0.0 ws.tapjoyads.com
+0.0.0.0 wv.inner-active.mobi
